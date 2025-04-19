@@ -1,4 +1,4 @@
-# lex-demo
+
 %{ #include<stdio.h>
     int x;
     int y;
